@@ -1,1 +1,1 @@
-Vulnerability disclosure guidance 
+Community-maintained vulnerability disclosure guidance 
